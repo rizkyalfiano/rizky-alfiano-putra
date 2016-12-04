@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1386426263 source:c:\users\a\documents\code block\tubes asd\multi.cpp
+	<iostream>
+	<stdlib.h>
+	<stdbool.h>
+	"multi.h"
+
+1386426756 c:\users\a\documents\code block\tubes asd\multi.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1386425796 source:c:\users\a\documents\code block\tubes asd\main.cpp
+	"multi.h"
+
+1386425798 source:c:\users\user\desktop\tubes asd\main.cpp
+	"multi.h"
+
+1386426758 c:\users\user\desktop\tubes asd\multi.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1386426264 source:c:\users\user\desktop\tubes asd\multi.cpp
+	<iostream>
+	<stdlib.h>
+	<stdbool.h>
+	"multi.h"
+
+1386425798 source:f:\coding\program cpp\source code mll\main.cpp
+	"multi.h"
+
+1480838880 f:\coding\program cpp\source code mll\multi.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1386426264 source:f:\coding\program cpp\source code mll\multi.cpp
+	<iostream>
+	<stdlib.h>
+	<stdbool.h>
+	"multi.h"
+
+1386425798 source:c:\users\user\desktop\tugas besar rizky alfiano putra\main.cpp
+	"multi.h"
+
+1480838880 c:\users\user\desktop\tugas besar rizky alfiano putra\multi.h
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1386426264 source:c:\users\user\desktop\tugas besar rizky alfiano putra\multi.cpp
+	<iostream>
+	<stdlib.h>
+	<stdbool.h>
+	"multi.h"
+
